@@ -39,11 +39,11 @@ CREATE TABLE ITENS_PEDIDO (
 USE loja;
 
 INSERT INTO CLIENTES (nome, email) VALUES
-('Alice Smith', 'alice.smith@example.com'),
-('Bob Johnson', 'bob.johnson@example.com');
+('luis', 'luis@gmail.com'),
+('ana', 'ana@gmail.com');
 
 INSERT INTO PRODUTOS (nome, preco) VALUES
-('Laptop', 1200.00),
+('tv', 1200.00),
 ('Mouse', 25.50);
 
 USE loja;
